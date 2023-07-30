@@ -1,0 +1,4 @@
+C:\Users\nikitageak\Desktop\stealer\stub\Neko\obj\x64\Debug\DeepSide.csproj.AssemblyReference.cache
+C:\Users\nikitageak\Desktop\stealer\stub\Neko\obj\x64\Debug\DeepSide.csproj.CoreCompileInputs.cache
+C:\Users\nikitageak\Desktop\stealer\stub\Neko\obj\x64\Debug\deepsidestubility.Properties.Resources.resources
+C:\Users\nikitageak\Desktop\stealer\stub\Neko\obj\x64\Debug\DeepSide.csproj.GenerateResource.cache
